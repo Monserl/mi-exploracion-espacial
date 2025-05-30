@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "mi-exploracion-espacial",
+  "version": "1.0.0",
+  "description": "Registro de planetas descubiertos",
+  "main": "index.js",
+  "scripts": {
+    "explorar": "node index.js",
+    "start": "node index.js",
+    "buscar": "node buscarPlaneta.js",
+    "contar": "node contarPlanetas.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cowsay": "^1.6.0"
+  }
+}
